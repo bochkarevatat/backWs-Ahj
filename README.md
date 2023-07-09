@@ -1,1 +1,1 @@
-# Листинг кода. Урок 08. EventSource, Websockets
+# Сервер. Урок 08. EventSource, Websockets
